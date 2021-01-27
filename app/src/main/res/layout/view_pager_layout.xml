@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/textView_ht"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/howTo"
+        android:gravity="center"
+        android:textSize="18sp"/>
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:cardCornerRadius="10dp">
+
+        <ImageView
+            android:id="@+id/image_ht"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/how_to1"
+            android:adjustViewBounds="true"/>
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_import_preset"
+        android:title="@string/how_to_import_presets"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_import_export_24"/>
+
+    <item
+        android:id="@+id/menu_about_app"
+        android:title="@string/about_this_app"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_round_info_24"/>
+
+    <item
+        android:id="@+id/menu_upload"
+        app:showAsAction="ifRoom"
+        android:visible="true"
+        android:icon="@drawable/ic_baseline_cloud_upload_24"
+        android:title="@string/refresh"/>
+</menu>

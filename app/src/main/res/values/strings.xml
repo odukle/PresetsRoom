@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Presets Room</string>
+    <string name="download_all">Download all</string>
+    <string name="view_all">view all</string>
+    <string name="test_text">Test text</string>
+    <string name="download">download</string>
+    <string name="name">Name</string>
+    <string name="how_to_import_presets">How to import presets in lightroom</string>
+    <string name="about_this_app">About this app</string>
+    <string name="howTo">Open Lightroom And</string>
+    <string name="refresh">refresh</string>
+    <string name="choose_group_pic">Choose group pic</string>
+    <string name="choose_xmp">choose xmp</string>
+    <string name="selected_pic_name">selected pic name</string>
+    <string name="selected_xmp_name">selected xmp name</string>
+    <string name="enter_xmp_name">Enter xmp/pic name</string>
+    <string name="enter_xmp_group_name">Enter xmp group name</string>
+    <string name="choose_preset_pic">choose preset pic</string>
+    <string name="updating">updating</string>
+    <string name="created_by">Created By:\nSaurabh Odukle</string>
+    <string name="follow">follow</string>
+    <string name="contact">contact</string>
+    <string name="downloading">Downloading</string>
+    <string name="test">test</string>
+    <string name="instructions1">~  Not all presets will look good on all kinds of photos. Try out different presets to get best results.</string>
+    <string name="instructions2">~ Some highly manipulated presets will work better only on high quality images.</string>
+    <string name="don_t_show_again">Don\'t show again</string>
+    <string name="got_it">Got it!</string>
+    <string name="instructions3">~ Highly manipulated presets will not look good on photos that contain human face.</string>
+    <string name="watch_video">Watch video</string>
+    <string name="GOOGLE_API_KEY">AIzaSyCUTlu0RDQKsG4P-XyerLI_DlXgQ-HFRvo</string>
+    <string name="ps_request">PS - will be really grateful if you mention this app whenever you use one of our presets ❤</string>
+    <string name="get_lightroom">Get Lightroom</string>
+    <string name="skip">Skip</string>
+    <string name="splash_instructions">After downloading the xmp preset you need to import it inside the lightroom app.\n\n Read the instructions below or watch the video to find out how to import xmp presets in lightroom mobile.\n\nYou can access these instructions later inside the app.</string>
+    <string name="banner_unit_id">ca-app-pub-9193191601772541/5434251397</string>
+</resources>

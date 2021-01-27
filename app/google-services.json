@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317585003496",
+    "firebase_url": "https://presets-room.firebaseio.com",
+    "project_id": "presets-room",
+    "storage_bucket": "presets-room.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317585003496:android:7f8733a122e351259d4a5d",
+        "android_client_info": {
+          "package_name": "com.odukle.presetsroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317585003496-0vkhbc7p2m001h9sg0lu2ubd1h926mgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPJQALo9GhEmgaHcZjxNiWQ-YreMXNYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317585003496-0vkhbc7p2m001h9sg0lu2ubd1h926mgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
